@@ -1,0 +1,14 @@
+
+Main article:
+https://medium.com/ps-its-huuti/how-to-get-started-with-automapper-and-asp-net-core-2-ecac60ef523f
+
+Install-Package AutoMapper -Version 8.1.1
+Install-Package AutoMapper.Extensions.Microsoft.DependencyInjection -Version 6.1.1
+
+
+dotnet add package AutoMapper --version 8.1.1
+dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection --version 6.1.1
+
+
+
+
