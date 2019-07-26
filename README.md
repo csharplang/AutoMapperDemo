@@ -13,6 +13,10 @@ dotnet sln AutoMapperDemo.sln add AutoMapperDemo/AutoMapperDemo.csproj
 dotnet build
 dotnet run
 dotnet watch run
+
+Publish and run:
+dotnet publish -o ./publish
+dotnet API.DotNetCore.dll
 ```
 
 ## Auto Mapper Nuget
