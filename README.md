@@ -16,7 +16,7 @@ dotnet watch run
 
 Publish and run:
 dotnet publish -o ./publish
-dotnet API.DotNetCore.dll
+dotnet AutoMapperDemo.dll
 ```
 
 ## Auto Mapper Nuget
